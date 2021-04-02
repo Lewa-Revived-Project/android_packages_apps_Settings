@@ -4962,4 +4962,5 @@
     <string name="keywords_media_controls" msgid="8345490568291778638">"媒体"</string>
     <string name="connected_device_see_all_summary" msgid="2056010318537268108">"蓝牙将开启"</string>
     <string name="aware_summary_when_bedtime_on" msgid="2063856008597376344">"就寝模式开启时无法使用"</string>
+    <string name="lewa_revived_os_version">Lewa Revived OS 版本</string>
 </resources>

@@ -12190,4 +12190,5 @@
 
     <!-- Summary for preference when Bedtime mode is on [CHAR LIMIT=NONE] -->
     <string name="aware_summary_when_bedtime_on">Unavailable because bedtime mode is on</string>
+    <string name="lewa_revived_os_version">Lewa Revived OS Version</string>
 </resources>
